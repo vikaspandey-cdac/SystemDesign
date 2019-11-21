@@ -32,4 +32,14 @@ public class Booking {
 		return false;
 		
 	}
+
+	public Show getShow() {
+		// TODO Auto-generated method stub
+		return show;
+	}
+
+	public List<ShowSeat> getSeats() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
